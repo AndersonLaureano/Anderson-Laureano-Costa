@@ -11,4 +11,4 @@ Utilizo este perfil para compartilhar meus estudos, projetos e acompanhar minha 
 ![Python](https://img.shields.io/badge/Python-yellow)
 
 Contato
-![Gmail](https://img.shields.io/badge/Gmail-Contato-red)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red)](mailto:andersonbiosp@gmail.com)
