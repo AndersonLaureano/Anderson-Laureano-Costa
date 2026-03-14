@@ -12,3 +12,5 @@ Utilizo este perfil para compartilhar meus estudos, projetos e acompanhar minha 
 
 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-red)](mailto:andersonbiosp@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/anderson-laureano-30046a3b7)
